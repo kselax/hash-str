@@ -1,0 +1,28 @@
+{
+  "name": "hash-str",
+  "version": "1.0.2",
+  "description": "This mudule that generate hash as long as you specify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kselax/hash-str.git"
+  },
+  "keywords": [
+    "hash",
+    "generate-hash",
+    "dynamic-hash"
+  ],
+  "author": {
+    "name": "Hacker Kselax",
+    "email": "neovichnn@gmail.com",
+    "url": "http://kselax.ru/en"
+  },
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/kselax/hash-str/issues"
+  },
+  "homepage": "https://github.com/kselax/hash-str#readme"
+}
